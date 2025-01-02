@@ -17,3 +17,6 @@ They vary significantly, ranging from **autonomous systems** that operate indepe
 Most agentic systems fall into two primary categories:
 - **Workflows**
 - **Agents**
+
+**References:**
+- https://www.anthropic.com/research/building-effective-agents
